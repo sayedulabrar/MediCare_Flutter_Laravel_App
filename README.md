@@ -1,12 +1,12 @@
 ## Technology and Tools
 
-- **Web (Laravel)**
+- **Web (Laravel 9)**
   - **JETSTREAM**: Used for user management and authentication.
-  - **Laravel**: Used for the web API.
+  - **Laravel 9**: Used for the web API.
 
 - **Mobile (Flutter)**
   - **Sanctum**: Used for handling JWT authentication.
-  - **Laravel**: Used for the API in the Flutter app.
+  - **Laravel  9**: Used for the API in the Flutter app.
 
 - **Database**
   - Both mobile and web parts use the same database.
