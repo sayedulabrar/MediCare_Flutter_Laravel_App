@@ -12,7 +12,7 @@
   - Both mobile and web parts use the same database.
 # Image Gallery
 
-## Website Images (Full Row)
+## Some Website Images (Full Row)
 ![dashboard.PNG](Laravel_Backend_api_for_app_web/public/images/dashboard.PNG)
 
 ![login.PNG](Laravel_Backend_api_for_app_web/public/images/login.PNG)
@@ -23,7 +23,7 @@
 
 ![register.PNG](Laravel_Backend_api_for_app_web/public/images/register.PNG)
 
-## App Images (Three per Row)
+## Some App Images (Three per Row)
 
 | login_mobile | register_mobile | home_page |
 |--------------|-----------------|-----------|
