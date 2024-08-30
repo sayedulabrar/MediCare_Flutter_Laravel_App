@@ -1,3 +1,15 @@
+## Technology and Tools
+
+- **Web (Laravel)**
+  - **JETSTREAM**: Used for user management and authentication.
+  - **Laravel**: Used for the web API.
+
+- **Mobile (Flutter)**
+  - **Sanctum**: Used for handling JWT authentication.
+  - **Laravel**: Used for the API in the Flutter app.
+
+- **Database**
+  - Both mobile and web parts use the same database.
 # Image Gallery
 
 ## Website Images (Full Row)
@@ -24,3 +36,4 @@
 | saved_schedules | favorite_doctors | profile_mobile |
 |-----------------|------------------|----------------|
 | ![saved_schedules](Laravel_Backend_api_for_app_web/public/images/saved_schedules.jpg)<br>saved_schedules | ![favorite_doctors](Laravel_Backend_api_for_app_web/public/images/favorite_doctors.jpg)<br>favorite_doctors | ![profile_mobile](Laravel_Backend_api_for_app_web/public/images/profile_mobile.jpg)<br>profile_mobile |
+
