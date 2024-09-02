@@ -21,6 +21,8 @@ class _MainLayoutState extends State<MainLayout> {
     return Scaffold(
       body: PageView(
         controller: _page,
+        //  This is a callback that is triggered when the user swipes between pages. 
+        // It updates the currentPage variable with the index of the new page and calls setState to update the UI.
         onPageChanged: ((value) {
           setState(() {
             currentPage = value;
@@ -34,6 +36,7 @@ class _MainLayoutState extends State<MainLayout> {
         ],
       ),
       bottomNavigationBar: BottomNavigationBar(
+// currentIndex: This property is set to currentPage, which ensures that the selected tab matches the currently displayed page in the PageView.
         currentIndex: currentPage,
         onTap: (page) {
           setState(() {
